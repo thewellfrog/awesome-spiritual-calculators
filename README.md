@@ -39,6 +39,7 @@ Collections dedicated to specific spiritual topics.
 ## Tarot Reading Platforms
 
 ### AI-Powered Tarot
+- [Lumi Tarot](https://createdbyaicreator.cloud/creations/tarot) - Free multilingual tarot readings with Lumi the cat guide. No signup required, full 78-card deck, 15+ languages including English, Korean, Japanese, Chinese, Spanish, French. Works on mobile and desktop.
 - [Taro's Tarot](https://tarostarot.com/) - AI-powered tarot readings with 22+ spreads, personalized interpretations, dream analysis, and tarot journaling. Free and premium options.
 - [Tarotap](https://tarotap.com/) - Modern AI tarot with clean interface. No signup required.
 - [Labyrinthos](https://labyrinthos.co/) - Interactive readings with beautiful digital decks and comprehensive learning resources.
