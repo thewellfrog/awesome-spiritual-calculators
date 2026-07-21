@@ -42,6 +42,7 @@ Collections dedicated to specific spiritual topics.
 - [Taro's Tarot](https://tarostarot.com/) - AI-powered tarot readings with 22+ spreads, personalized interpretations, dream analysis, and tarot journaling. Free and premium options.
 - [Tarotap](https://tarotap.com/) - Modern AI tarot with clean interface. No signup required.
 - [Labyrinthos](https://labyrinthos.co/) - Interactive readings with beautiful digital decks and comprehensive learning resources.
+- [Luna Tarot](https://www.lunatarotapp.com/) - Free multilingual tarot reading PWA supporting 8 languages. Features daily readings, meditation music, moon calendar, and energy forecast. No signup required, works offline.
 
 ### Classic Tarot Sites
 - [Trusted Tarot](https://trustedtarot.com/) - 20+ years experience, real shuffled cards, 4.9-star rating from 66,000+ reviews.
