@@ -84,6 +84,7 @@ Collections dedicated to specific spiritual topics.
 - [Astro-Charts Synastry](https://astro-charts.com/tools/synastry/) - Free synastry chart with aspect analysis.
 
 ### Vedic Astrology
+- [Vedic Astrology Chart](https://vedicastrologychart.net) - Generate a Vedic birth chart from date, time, and place with chart interpretations.
 - [VedAstro](https://vedastro.org/) - Open-source Vedic astrology with AI astrologer. Free and comprehensive.
 - [Astrosage](https://astrosage.com/) - Indian astrology with Kundli generation and matching.
 
