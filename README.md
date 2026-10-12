@@ -69,6 +69,7 @@ Collections dedicated to specific spiritual topics.
 ### Specialized Calculators
 - [Taro's Tarot Numerology Compatibility](https://tarostarot.com/numerology-compatibility) - Compare life path numbers between partners.
 - [Numerology Calculator by suspha](https://suspha.github.io/numerology/) - Simple open-source web calculator.
+- [Swarn Siddhi Lo Shu Grid Calculator](https://swarnsiddhi.com/lo-shu-grid-calculator) - Free, no-login birth-date grid with repeated and missing digits, Mulank and Bhagyank, and visible arithmetic. Interpretations are for reflection; optional paid reports are separate.
 
 ---
 
