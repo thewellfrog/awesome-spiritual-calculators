@@ -87,6 +87,9 @@ Collections dedicated to specific spiritual topics.
 - [VedAstro](https://vedastro.org/) - Open-source Vedic astrology with AI astrologer. Free and comprehensive.
 - [Astrosage](https://astrosage.com/) - Indian astrology with Kundli generation and matching.
 
+### Chinese Astrology (BaZi)
+- [YUVYN](https://yuvyn.com/bazi-calculator) - Free English Four Pillars chart calculator with Day Master labels. Known birth time required; optional personal AI interpretation is paid.
+
 ### Specialized Tools
 - [Destiny Matrix Calculator](https://github.com/Alesia-15/DestinyMatrix) - Open-source destiny matrix calculators.
 - [TimePassages](https://astrograph.com/) - Professional astrology software with free chart options.
