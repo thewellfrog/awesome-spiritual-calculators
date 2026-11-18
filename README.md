@@ -75,6 +75,7 @@ Collections dedicated to specific spiritual topics.
 ## Astrology Tools
 
 ### Birth Chart Generators
+- [Bazi Diff](https://bazi-diff.pages.dev/) - Free BaZi Four Pillars chart and Day Master guide, with a worked example and support for uncertain birth times.
 - [Astro.com](https://astro.com/) - The gold standard for free birth charts. Detailed reports and professional-quality charts.
 - [Cafe Astrology](https://cafeastrology.com/) - Free birth charts with extensive interpretations.
 - [Co-Star](https://costarastrology.com/) - Modern astrology app with daily horoscopes and AI-powered insights.
