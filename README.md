@@ -78,6 +78,7 @@ Collections dedicated to specific spiritual topics.
 - [Astro.com](https://astro.com/) - The gold standard for free birth charts. Detailed reports and professional-quality charts.
 - [Cafe Astrology](https://cafeastrology.com/) - Free birth charts with extensive interpretations.
 - [Co-Star](https://costarastrology.com/) - Modern astrology app with daily horoscopes and AI-powered insights.
+- [Asteria](https://askasteria.com/birth-chart/) - Free birth chart with houses and aspects, rising and Moon sign calculators, zodiac compatibility and a Moon calendar. No signup required, in six languages.
 
 ### Compatibility & Synastry
 - [Taro's Tarot Synastry Chart](https://tarostarot.com/synastry-chart) - Relationship astrology examining planetary aspects between two charts.
